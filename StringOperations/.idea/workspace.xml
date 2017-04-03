@@ -15,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringTolist.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StringTolist.py">
+      <file leaf-file-name="listTostring.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listTostring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -41,6 +41,7 @@
         <option value="$PROJECT_DIR$/ff.ipynb" />
         <option value="$PROJECT_DIR$/file.py" />
         <option value="$PROJECT_DIR$/StringTolist.py" />
+        <option value="$PROJECT_DIR$/listTostring.py" />
       </list>
     </option>
   </component>
@@ -83,7 +84,7 @@
       </pane>
     </panes>
   </component>
-  <component name="RunManager" selected="Python.file">
+  <component name="RunManager" selected="Python.listTostring">
     <configuration default="false" name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,6 +98,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="StringOperations" />
       <option name="SCRIPT_NAME" value="C:\Users\samsung\PycharmProjects\StringOperations\StringTolist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="listTostring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="StringOperations" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listTostring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -235,12 +253,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.file" />
+      <item index="1" class="java.lang.String" itemvalue="Python.listTostring" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.file" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.listTostring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.file" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -301,6 +321,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listTostring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
