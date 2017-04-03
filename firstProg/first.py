@@ -8,7 +8,11 @@ print("length of list : "+str(len(list)))
 print("max of list : "+str(max(list)))
 print("min of list : "+str(min(list)))
 
-
+## returing index of objects
+print("Index of 4 in list : " + str(list.index(4)))
+print("Index of 2 in list : " + str(list.index(2)))
+print("Index of 3 in list : " + str(list.index(3)))
+print("Index of 1 in list : " + str(list.index(1)))
 
 
 # Modifying list
