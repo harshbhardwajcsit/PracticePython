@@ -1,6 +1,8 @@
-test = input()
-k = 0
-while k < int(test):
+try:
+ test = input()
+ k = 0
+
+ while k < int(test):
     key = input()
     emsg = input()
     i = 1
@@ -12,7 +14,6 @@ while k < int(test):
         else:
             i = i + 1
     n = i
-
     i = 1
     m = key[::-1]
     while i < n:
@@ -43,5 +44,7 @@ while k < int(test):
         i += 1
 
     print("".join(list))
+ k += 1
+except (EOFError):
+   print('')
 
-k += 1
