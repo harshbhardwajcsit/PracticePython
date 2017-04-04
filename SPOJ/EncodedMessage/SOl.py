@@ -19,17 +19,16 @@ while i<n:
 ##print(key)
 i=0
 
-while i<len(emsg):
-    num=ord(emsg[i])
-    q=int(key[i])
-    if num-q<97:
-        p=num-97
-        print(chr(123-(q-p)))
-
-
+while i < len(emsg):
+        num = ord(emsg[i])
+        q = int(key[i])
+        print('hello')
+        if num - q < 97:
+            p = num - 97
+            print(chr(123 - (q - p)))
 else:
-    print(chr(num-q))
+         print(chr(num - q))
 
-    i = i + 1
+i+=1
 
 
