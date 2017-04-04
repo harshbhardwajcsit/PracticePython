@@ -1,8 +1,5 @@
-try:
- test = input()
- k = 0
-
- while k < int(test):
+test = input()
+for k in range(0,int(test)):
     key = input()
     emsg = input()
     i = 1
@@ -44,7 +41,5 @@ try:
         i += 1
 
     print("".join(list))
- k += 1
-except (EOFError):
-   print('')
+
 
