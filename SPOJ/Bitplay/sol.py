@@ -1,3 +1,6 @@
+from Tools.scripts.treesync import raw_input
+
+
 def getsum(num):
     sumi = 0
     num = str(num)
@@ -8,10 +11,10 @@ def getsum(num):
 
     return sumi
 
-test = int(input())
+test = int(raw_input())
 for j in range(0, test):
 
-    n, k = input().split()
+    n, k = raw_input().split()
     n = int(n)
     k = int(k)
     j = n - 1
