@@ -35,17 +35,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Captilize.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Captilize.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Captilize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="replace.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="replace.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/replace.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -73,8 +73,8 @@
         <option value="$PROJECT_DIR$/StringTolist.py" />
         <option value="$PROJECT_DIR$/listTostring.py" />
         <option value="$PROJECT_DIR$/misc.py" />
-        <option value="$PROJECT_DIR$/Captilize.py" />
         <option value="$PROJECT_DIR$/replace.py" />
+        <option value="$PROJECT_DIR$/Captilize.py" />
       </list>
     </option>
   </component>
@@ -117,7 +117,7 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.replace">
+  <component name="RunManager" selected="Python.Captilize">
     <configuration default="false" name="file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,8 +346,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.replace" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Captilize" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Captilize" />
+        <item index="1" class="java.lang.String" itemvalue="Python.replace" />
         <item index="2" class="java.lang.String" itemvalue="Python.misc" />
         <item index="3" class="java.lang.String" itemvalue="Python.listTostring" />
         <item index="4" class="java.lang.String" itemvalue="Python.file" />
@@ -453,18 +453,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Captilize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/replace.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Captilize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
           <folding />
         </state>
       </provider>
